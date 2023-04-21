@@ -1,0 +1,45 @@
+.body{
+    text-align: center;
+    margin: auto;
+    height: 90vh;
+    max-width: 324px;
+
+}
+.header {
+    margin: 70px;
+}
+.form {
+    margin: 10px 0;
+}
+.footer {
+    margin-top: 190px;
+    text-align: left;
+}
+.footer__copyright {
+    opacity: 40%;
+}
+.form__input {
+    margin: 15px 0;
+    text-align: justify;
+}
+.form__submit {
+    color: white;
+    background-color: darkmagenta;
+    width: 100%;
+    font-size: inherit;
+    padding: 10px 0;
+}
+.form__header {
+    margin: 10px 0;
+    opacity: 40%;
+}
+.form__area {
+    width: 100%;
+    margin: inherit;
+    border: none;
+    border-bottom: ridge;
+}
+.form__passrecov {
+    border: none;
+    background: none;
+}
